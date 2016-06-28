@@ -1,4 +1,36 @@
 body
 {
-    background-color: #DA9E63;
+    background-color: #91FFAF;
+}
+
+#wrong1 {
+    background-color: #FE6BBE;
+ 
+}
+
+#wrong2 {
+    background-color: #FE6BBE;
+ 
+}
+
+#wrong3 {
+    background-color: #FE6BBE;
+ 
+}
+
+#right1 {
+    background-color: #FE6BBE;
+ 
+}
+
+#start {
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    text-align: center;
+   
+}
+
+#startlink {
+    text-decoration: none;
 }
