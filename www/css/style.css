@@ -1,34 +1,37 @@
 body
 {
-    background-color: #91FFAF;
+    background-color: #F97083;
 }
 
 #wrong1 {
-    background-color: #FE6BBE;
+    background-color: #89EC6A;
  
 }
 
 #wrong2 {
-    background-color: #FE6BBE;
+    background-color: #89EC6A;
  
 }
 
 #wrong3 {
-    background-color: #FE6BBE;
+    background-color: #89EC6A;
  
 }
 
 #right1 {
-    background-color: #FE6BBE;
+    background-color: #89EC6A;
  
 }
 
 #start {
-    
     font-family: 'Pacifico', cursive;
     font-size: 40px;
     text-align: center;
    
+}
+
+#startlink {
+    color: yellow;
 }
 
 #startlink {

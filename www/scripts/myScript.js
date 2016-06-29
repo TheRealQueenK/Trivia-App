@@ -41,3 +41,5 @@ function Correct(){
    ScoreUp();
    window.setTimeout(Navigate("ques2.html"), 1000)
 }  
+
+
