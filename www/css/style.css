@@ -37,7 +37,6 @@ body
 }
 
 #startlink {
-   
     text-decoration: none;
 }
 
@@ -61,7 +60,7 @@ h1 {
 
 #title {
     
-    color: #e32568
+    color: #ff0062
 }
 
 #gif{
@@ -72,7 +71,16 @@ h1 {
 }
 
 #win {
-    
+    color:yellow;
     font-size: 20px;
     
 }
+
+h2 {
+    text-align: center; 
+  
+}
+
+h3{color: purple
+}
+
