@@ -1,25 +1,26 @@
 body
 {
-    background-color: #F97083;
+    background-color: #FF6666
+;
 }
 
 #wrong1 {
-    background-color: #89EC6A;
+    background-color: #53f401;
  
 }
 
 #wrong2 {
-    background-color: #89EC6A;
+    background-color: #53f401;
  
 }
 
 #wrong3 {
-    background-color: #89EC6A;
+    background-color: #53f401;
  
 }
 
 #right1 {
-    background-color: #89EC6A;
+    background-color:#53f401;
  
 }
 
@@ -31,9 +32,35 @@ body
 }
 
 #startlink {
+    font-size: 50px;
     color: yellow;
 }
 
 #startlink {
+   
     text-decoration: none;
 }
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#pic
+{
+    text-align: center;
+}
+button {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+
+
+#title {
+    
+    color: #e32568
+}
+
